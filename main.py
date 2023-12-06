@@ -620,4 +620,4 @@ async def spam(ctx):
 
 keep_alive()
    
-client.run("OTU2OTIxMzg4MTk3ODkyMTU3.Yj3QfQ.JnFH_7cJEn4YfbIIKWjgPbuCwN0")
+client.run("Your Bot token......")
